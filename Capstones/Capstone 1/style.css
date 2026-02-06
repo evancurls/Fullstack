@@ -1,0 +1,29 @@
+
+
+/* Universals */
+h1{
+    text-align: center;
+    margin: 5px;
+}
+
+/* Classes */
+
+.centered{
+    text-align: center;
+    margin: 5px;
+}
+.work-date{
+    text-align: left;
+    padding: 0px;
+    font-weight: normal;
+    margin-top: 0%;
+}
+
+.experience-title{
+    margin-bottom: 0%;
+    padding-bottom: 5px;
+}
+
+.bullet-point{
+    color:black;
+}
